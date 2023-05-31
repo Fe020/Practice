@@ -1,5 +1,28 @@
+/* this is a comment in css */
+
 h6
 {
     background-color: darkgray;
     color: aqua;
+}
+
+#hi{
+    background-color: red;
+    color: aliceblue;
+    text-align: center;
+}
+
+.cl{
+    background-color: black;
+    color: aliceblue;
+}
+
+p{
+    color: red;
+}
+
+aside,article{
+    background-color: blue;
+    color: white;
+    font-size: larger;
 }
